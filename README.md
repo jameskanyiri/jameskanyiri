@@ -1,8 +1,19 @@
-# Hi there 👋
+<h1 align="center">Hello Guys! I Am James Kanyiri! 👋</h1>
 
-![James Kanyiri](https://via.placeholder.com/800x200.png?text=James+Kanyiri)
+<div align="center">
+<img src="https://via.placeholder.com/800x200.png?text=James+Kanyiri" height=360 />
+</div>
 
-## 👨‍💻 About Me
+<h4 align="center">
+  <b><a href="https://www.linkedin.com/in/james-kanyiri-b48b6b1a7">LinkedIn</a></b>
+  •
+  <b><a href="https://github.com/jameskanyiri">GitHub</a></b>
+  •
+  <a href="mailto:jmskanyiri@gmail.com">Email</a>
+</h4>
+
+## 👨‍💻 Introduction
+
 I am a Full-Stack Developer and AI/ML Engineer with over five years of experience. I love building innovative solutions and learning new technologies. Here’s a bit more about me:
 
 - 🔭 **I’m currently working on**: Building web applications and machine learning models.
@@ -18,9 +29,10 @@ I am a Full-Stack Developer and AI/ML Engineer with over five years of experienc
 - **DevOps**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![LAMP](https://img.shields.io/badge/LAMP-1C1E24?style=flat&logo=linux&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jameskanyiri&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskanyiri&layout=compact&theme=dark)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jameskanyiri&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameskanyiri&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 ## 📚 Education
 - **Bachelor of Science in Computer Science** - Multimedia University of Kenya
@@ -42,9 +54,17 @@ Designed and developed for Only Hugs using Laravel.
 Created a chatbot using Node.js for Sarabi Start-Up Studio.
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/james-kanyiri-b48b6b1a7)
-- [GitHub](https://github.com/jameskanyiri)
-- [Email](mailto:jmskanyiri@gmail.com)
+<div align="center">
+<a href="https://www.linkedin.com/in/james-kanyiri-b48b6b1a7" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/jameskanyiri" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:jmskanyiri@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+</div>
 
 ---
 
