@@ -1,7 +1,7 @@
 <h1 align="center">Hello Guys! I Am James Kanyiri! 👋</h1>
 
 <div align="center">
-<img src="https://via.placeholder.com/800x200.png?text=James+Kanyiri" height=360 />
+<img src="[https://via.placeholder.com/800x200.png?text=James+Kanyiri](https://media.licdn.com/dms/image/D4D03AQFfXEWErVvz_Q/profile-displayphoto-shrink_200_200/0/1687932156893?e=2147483647&v=beta&t=3tiEFUW2adnr_LjJ9ewWkFNgEGKi4WLjNvA089bMz1Q)" height=360 />
 </div>
 
 <h4 align="center">
