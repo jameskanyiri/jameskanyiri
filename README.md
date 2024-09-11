@@ -1,7 +1,7 @@
 <h1 align="center">Hello Guys! I Am James Kanyiri! 👋</h1>
 
 <div align="center">
-<img src="[https://via.placeholder.com/800x200.png?text=James+Kanyiri](https://media.licdn.com/dms/image/D4D03AQFfXEWErVvz_Q/profile-displayphoto-shrink_200_200/0/1687932156893?e=2147483647&v=beta&t=3tiEFUW2adnr_LjJ9ewWkFNgEGKi4WLjNvA089bMz1Q)" height=360 />
+<img src="https://media.licdn.com/dms/image/D4D03AQFfXEWErVvz_Q/profile-displayphoto-shrink_200_200/0/1687932156893?e=2147483647&v=beta&t=3tiEFUW2adnr_LjJ9ewWkFNgEGKi4WLjNvA089bMz1Q" height=360 />
 </div>
 
 <h4 align="center">
@@ -43,15 +43,6 @@ I am a Full-Stack Developer and AI/ML Engineer with over five years of experienc
 - **Machine Learning** - AWS
 - **Python Programming Basic** - Huawei
 
-## 🚀 Projects
-### [Project Management System](https://github.com/jameskanyiri/project-management-system)
-Developed using Laravel and React.js for Eco-Cycle Ltd.
-
-### [Mobile App UI Design and Backend](https://github.com/jameskanyiri/mobile-app)
-Designed and developed for Only Hugs using Laravel.
-
-### [WhatsApp Chatbot](https://github.com/jameskanyiri/whatsapp-chatbot)
-Created a chatbot using Node.js for Sarabi Start-Up Studio.
 
 ## 🌐 Connect with Me
 <div align="center">
