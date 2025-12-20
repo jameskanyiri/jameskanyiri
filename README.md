@@ -1,23 +1,18 @@
-<h1 align="center">Hi, I'm James Kanyiri 👋</h1>
+<h1 align="start">James Kanyiri</h1>
+<h3 align="start">Software Engineer</h3>
 
-<h3 align="center">AI Engineer | Building Intelligent Agents</h3>
 
----
+### About
+I’m a **Software Engineer** with a focus on building intelligent, scalable systems.  
+I work at the intersection of backend engineering and applied AI, designing agent-based solutions that solve real-world problems.
 
-### 👨‍💻 About Me  
-- 🧠 I specialize in **AI Engineering** and focus on creating intelligent agents.  
-- 🛠 **Tech I Use**:  
-  - **Programming**: Python  
-  - **Frameworks & Tools**: LangChain, LangGraph, FastAPI  
+### Tech Stack
+- **Languages:** Python  
+- **Backend:** FastAPI  
+- **AI & Agents:** LangChain, LangGraph  
 
----
+### Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/james-kanyiri-b48b6b1a7)
+- 🧑‍💻 [GitHub](https://github.com/jameskanyiri)
+- 📧 [Email](mailto:jmskanyiri@gmail.com)
 
-### 🌐 Connect with Me  
-
-- [LinkedIn](https://www.linkedin.com/in/james-kanyiri-b48b6b1a7)  
-- [GitHub](https://github.com/jameskanyiri)  
-- [Email](mailto:jmskanyiri@gmail.com)  
-
----
-
-😊 Thanks for visiting my profile!
