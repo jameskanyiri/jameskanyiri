@@ -1,4 +1,4 @@
-<h1 align="start">James Kanyiri</h1>
+<h1 align="start">J Kanyiri</h1>
 <h3 align="start">Software Engineer</h3>
 
 
